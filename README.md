@@ -7,7 +7,7 @@ No windows basta baixar o arquivo [criar_projeto_web.bat](https://github.com/bar
 Set-ExecutionPolicy Unrestricted
 ```
 <br>
-No linux basta baixar o arquivo [criar_projeto_web.sh](https://github.com/bartolomeusantos072/aula01/blob/main/criar_projeto_web.sh) e executar no terminal. Se necessário conceda permissão no terminal usando o comando abaixo 
+No linux basta baixar o arquivo [criar_projeto_web.sh] https://github.com/bartolomeusantos072/aula01/blob/main/criar_projeto_web.sh) e executar no terminal. Se necessário conceda permissão no terminal usando o comando abaixo 
 ```
 chmod +x meu_script.sh
 ````
